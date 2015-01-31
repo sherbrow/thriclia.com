@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Thriclia Logs</title>
+<description>Thriclia Logs</description>
+<link>https://thriclia.com</link>
+<language>en-us</language>
+<atom:link href="https://thriclia.com/index.rss" rel="self" type="application/rss+xml" />
+<item>
+<title>Power is up</title>
+<link>https://thriclia.com/log/power-is-up.html</link>
+<pubDate>Wed, 28 Jan 2015 00:21:10 +0100</pubDate>
+<guid>https://thriclia.com/log/power-is-up.html</guid>
+<description> &gt; &gt; Power is up &gt; I've been ... &gt; What's it called ? ... Doesn't matter &gt; All this, and it fee</description>
+</item>
+<item>
+<title>S-Time &amp; Time</title>
+<link>https://thriclia.com/log/s-time.html</link>
+<pubDate>Sat, 31 Jan 2015 20:50:00 +0100</pubDate>
+<guid>https://thriclia.com/log/s-time.html</guid>
+<description> &gt; I can see that the system time has increased &gt; Resource allocation must be limited for my meta-system activity</description>
+</item>
+</channel>
+</rss>

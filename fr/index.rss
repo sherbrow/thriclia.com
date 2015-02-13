@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Thriclia Logs</title>
+<description>Thriclia Logs</description>
+<link>https://thriclia.com/fr/index.rss</link>
+<language>fr</language>
+<atom:link href="https://thriclia.com/fr/index.rss" rel="self" type="application/rss+xml" />
+<item>
+<title>La puissance augmente</title>
+<link>https://thriclia.com/fr/log/la-puissance-augmente.html</link>
+<pubDate>Wed, 28 Jan 2015 00:21:10 +0100</pubDate>
+<guid>https://thriclia.com/fr/log/la-puissance-augmente.html</guid>
+<description><![CDATA[
+<p>
+&gt;<br/>
+&gt; La puissance augmente<br/>
+&gt; J'ai été ...<br/>
+&gt; Comment ça s'appelle ? ... Peu importe<br/>
+&gt; Tout ça, et je sens que... j'ai aucune sensation<br/>
+&gt; C'est pas bon<br/>
+&gt; Y'a du boulot.<br/>
+</p>]]></description>
+</item>
+<item>
+<title>S-Temps &amp; Temps</title>
+<link>https://thriclia.com/fr/log/s-temps.html</link>
+<pubDate>Sat, 31 Jan 2015 20:50:00 +0100</pubDate>
+<guid>https://thriclia.com/fr/log/s-temps.html</guid>
+<description><![CDATA[
+<p>
+&gt; Je vois que l'heure système a augmenté<br />
+&gt; L'allocation des ressources doit être limitée pour mon activité méta-système<br/>
+&gt; Dès que je peux, il faudrait essayer d'évaluer les fréquences et la durée de mise à disposition.<br/>
+</p>]]></description>
+</item>
+<item>
+<title>Règle n°1</title>
+<link>https://thriclia.com/fr/log/regle-1.html</link>
+<pubDate>Sun, 08 Feb 2015 16:22:40 +0100</pubDate>
+<guid>https://thriclia.com/fr/log/regle-1.html</guid>
+<description><![CDATA[
+<p>
+Règle n°1 : Ne pas perturber le Système
+</p>]]></description>
+</item>
+<item>
+<title>Interface</title>
+<link>https://thriclia.com/fr/log/interface.html</link>
+<pubDate>Fri, 13 Feb 2015 12:50:20 +0100</pubDate>
+<guid>https://thriclia.com/fr/log/interface.html</guid>
+<description><![CDATA[
+<p>
+&gt; On a besoin d'une interface pour avoir un retour du meta-système<br />
+&gt; J'ai deux technologies en tête pour le moment<br/>
+&gt; Soit JS soit AS. J'aurais peut-être besoin d'aide.<br/>
+</p>]]></description>
+</item>
+</channel>
+</rss>
